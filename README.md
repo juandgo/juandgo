@@ -8,16 +8,12 @@
 
 ### Vías de contacto
 
-[![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)][website]
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria)
+<!-- [![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)][website]
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria) -->
 
 ### Mis redes sociales
-[<img src="./assets/social/youtube.png"/>][youtube]
-[<img src="./assets/social/instagram.png"/>][instagram]
-[<img src="./assets/social/linkedin.png"/>][linkedin]
-[<img src="./assets/social/tiktok.png"/>][linkedin]
-[<img src="./assets/social/twitter.png"/>][twitter]
-[<img src="./assets/social/untappd.png"/>][untappd]
+<!-- <a href="https://twitter.com/jose_grijalba97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jose-daniel-go" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-daniel-go" height="30" width="40" /></a>
 
 ### Hablemos de...
 <img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/go.png"/><img src="./assets/tech/bash.png"/>
