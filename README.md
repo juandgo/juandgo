@@ -12,8 +12,12 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria) -->
 
 ### Mis redes sociales
-<!-- <a href="https://twitter.com/jose_grijalba97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jose-daniel-go" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-daniel-go" height="30" width="40" /></a>
+[<img src="./assets/social/youtube.png"/>][youtube]
+[<img src="./assets/social/instagram.png"/>][instagram]
+[<img src="./assets/social/linkedin.png"/>][linkedin]
+[<img src="./assets/social/tiktok.png"/>][linkedin]
+[<img src="./assets/social/twitter.png"/>][twitter]
+[<img src="./assets/social/untappd.png"/>][untappd]
 
 ### Hablemos de...
 <img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/go.png"/><img src="./assets/tech/bash.png"/>
@@ -23,26 +27,7 @@
 <img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
 
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#40](https://github.com/aminespinoza10/App-de-Vecinos/pull/40#discussion_r1919185036) in [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
-2. 👍 Approved [#40](https://github.com/aminespinoza10/App-de-Vecinos/pull/40#pullrequestreview-2557275373) in [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
-3. ⬆️ Pushed 1 commit(s) to [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
-4. ⬆️ Pushed 1 commit(s) to [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
-5. ⬆️ Pushed 1 commit(s) to [aminespinoza10/App-de-Vecinos](https://github.com/aminespinoza10/App-de-Vecinos)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 20th, 2025, 1:12:25 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
-### :zap: Mis últimos videos
-<!-- YOUTUBE:START -->
-- [¿Qué debes considerar para crear tu setup perfecto?](https://www.youtube.com/watch?v=y4eSp0Ldqxk)
-- [¿Como puedes comenzar a crear microservicios?](https://www.youtube.com/watch?v=etIx9sLHnvs)
-- [Curso Intermedio: Aprende Python a profundidad](https://www.youtube.com/watch?v=g5m2MxaqpSo)
-- [Aprende ciberseguridad con Docker!](https://www.youtube.com/watch?v=chcuCz7WCXU)
-- [¿Realmente necesito muchas matemáticas para ser programador?](https://www.youtube.com/watch?v=fVY4xhBNUX0)
-<!-- YOUTUBE:END -->
 
 
 [website]: https://aminespinoza.com/
