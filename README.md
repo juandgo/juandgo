@@ -13,9 +13,9 @@
 
 ### Mis redes sociales
 <!-- [<img src="./assets/social/youtube.png"/>][youtube]
-[<img src="./assets/social/instagram.png"/>][instagram]
-[<img src="./assets/social/linkedin.png"/>][linkedin] -->
-[<img src="./assets/social/tiktok.png"/>][linkedin]
+<!-- [<img src="./assets/social/instagram.png"/>][instagram] -->
+[<img src="./assets/social/linkedin.png"/>][linkedin]
+<!-- [<img src="./assets/social/tiktok.png"/>][linkedin] -->
 [<img src="./assets/social/twitter.png"/>][twitter]
 <!-- [<img src="./assets/social/untappd.png"/>][untappd] -->
 
@@ -33,6 +33,6 @@
 [website]: https://aminespinoza.com/
 [twitter]: https://twitter.com/aminespinoza
 [youtube]: https://www.youtube.com/c/AminEspinoza
-[linkedin]: https://www.linkedin.com/in/amin-espinoza-71b24661/
+[linkedin]: https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/
 [instagram]: https://www.instagram.com/aminespinoza10/
 [untappd]: https://untappd.com/user/aminespinoza
