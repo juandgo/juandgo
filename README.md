@@ -1,10 +1,10 @@
-# Hola, soy Juan Grijalba
+# Hi, I'm Juan Grijalba
 
 :computer: **Ingeniero de Software**  
 :pencil: **Generador de contenido**  
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**  
-:family: **¡El papá más feliz del mundo!**
+<!-- :family: **¡El papá más feliz del mundo!** -->
 
 ### Vías de contacto
 
@@ -31,7 +31,7 @@
 
 
 [website]: https://aminespinoza.com/
-[twitter]: https://twitter.com/aminespinoza
+[twitter]: https://x.com/GoJuand
 [youtube]: https://www.youtube.com/c/AminEspinoza
 [linkedin]: https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/
 [instagram]: https://www.instagram.com/aminespinoza10/
