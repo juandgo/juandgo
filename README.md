@@ -12,12 +12,12 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://calendly.com/aminespinoza/consultoria) -->
 
 ### Mis redes sociales
-[<img src="./assets/social/youtube.png"/>][youtube]
+<!-- [<img src="./assets/social/youtube.png"/>][youtube]
 [<img src="./assets/social/instagram.png"/>][instagram]
-[<img src="./assets/social/linkedin.png"/>][linkedin]
+[<img src="./assets/social/linkedin.png"/>][linkedin] -->
 [<img src="./assets/social/tiktok.png"/>][linkedin]
 [<img src="./assets/social/twitter.png"/>][twitter]
-[<img src="./assets/social/untappd.png"/>][untappd]
+<!-- [<img src="./assets/social/untappd.png"/>][untappd] -->
 
 ### Hablemos de...
 <img src="./assets/tech/csharp_dotnet.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/go.png"/><img src="./assets/tech/bash.png"/>
