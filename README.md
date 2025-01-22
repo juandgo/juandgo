@@ -1,9 +1,9 @@
 # Hi, I'm Juan Grijalba
 
 :computer: **Ingeniero de Software**  
-:pencil: **Generador de contenido**  
+<!-- :pencil: **Generador de contenido**   -->
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
-:oncoming_automobile: **Fan de los autos, carreras y simuladores**  
+:oncoming_automobile: **Fan de la SpaceX, technologia y simuladores**  
 <!-- :family: **¡El papá más feliz del mundo!** -->
 
 ### Vías de contacto
