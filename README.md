@@ -1,3 +1,40 @@
+<img src="./assets/greetings.gif">
+
+<br>
+
+**Hi, I'm JuanDa. I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+
+
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/html.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/css.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/python.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/react.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/node.svg">
+
+-----
+
+
+
+
 # Hi, I'm Juan Grijalba
 
 :computer: **Ingeniero de Software**  
