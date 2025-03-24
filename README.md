@@ -47,7 +47,7 @@
 <!-- [<img src="./assets/social/instagram.png"/>][instagram] -->
 [<img src="./assets/social/linkedin.png"/>][linkedin]
 <!-- [<img src="./assets/social/tiktok.png"/>][linkedin] -->
-[<img src="./assets/social/x.png"/>][twitter]
+[<img src="./assets/social/x1.png"/>][twitter]
 <!-- [<img src="./assets/social/untappd.png"/>][untappd] -->
 
 ### Hablemos de...
