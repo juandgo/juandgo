@@ -1,6 +1,6 @@
 # Hi, I'm Juan Grijalba
 
-<img src="./assets/greetings.gif">
+\\<img src="./assets/greetings.gif">
 
 <br>
 
