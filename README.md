@@ -12,6 +12,16 @@
 :oncoming_automobile: **Fan de la SpaceX, technologia y simuladores**  
 <!-- :family: **¡El papá más feliz del mundo!** -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yorjaggy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorjaggy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yorjaggy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -44,7 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandgo&show_icons=true&locale=en&layout=compact" alt="juandgo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgo&show_icons=true&locale=en" alt="juandgo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandgo&" alt="juandgo" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandgo&" alt="juandgo" /></p> -->
 
 
 
