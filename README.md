@@ -50,10 +50,6 @@
 [<img src="./assets/social/x1.png"/>][twitter]
 <!-- [<img src="./assets/social/untappd.png"/>][untappd] -->
 
-### Estoy aprendiendo...
-<img src="./assets/tech/rust.png"/> <img src="./assets/tech/security.png"/>
-
-
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -84,13 +80,13 @@
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yorjaggy&show_icons=true&locale=en&layout=compact" alt="yorjaggy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yorjaggy&show_icons=true&locale=en" alt="yorjaggy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yorjaggy&" alt="yorjaggy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandgo&show_icons=true&locale=en&layout=compact" alt="juandgo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgo&show_icons=true&locale=en" alt="juandgo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandgo&" alt="juandgo" /></p>
 
 
 
-[website]: https://aminespinoza.com/
+[website]: https://juandgo.com/
 [twitter]: https://x.com/GoJuand
 [youtube]: https://www.youtube.com/c/AminEspinoza
 [linkedin]: https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/
