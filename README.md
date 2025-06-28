@@ -14,10 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yorjaggy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorjaggy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yorjaggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yorjaggy" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandgo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juandgo" height="30" width="40" /></a>
 </p>
+<a href="https://twitter.com/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankgrijalba" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
