@@ -7,11 +7,9 @@
 
 -----
 
-:computer: **Ingeniero de Software**  
-<!-- :pencil: **Generador de contenido**   -->
-:eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
-:oncoming_automobile: **Fan de la SpaceX, technologia y simuladores**  
-<!-- :family: **¡El papá más feliz del mundo!** -->
+:computer: **Software Engineer**  
+:eyeglasses: **Hardcore Geek (is geek still used?)**  
+:oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
