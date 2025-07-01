@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Juand</h1>
+<h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**Hi, I'm JuanDa. I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**Hi, I'm Juan. I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
 
 -----
 
