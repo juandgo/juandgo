@@ -57,12 +57,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandgo&show_icons=true&locale=en&layout=compact" alt="juandgo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandgo&show_icons=true&locale=en" alt="juandgo" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandgo&" alt="juandgo" /></p> -->
-
-
-
-[website]: https://juandgo.com/
-[twitter]: https://x.com/GoJuand
-[youtube]: https://www.youtube.com/c/AminEspinoza
-[linkedin]: https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/
-[instagram]: https://www.instagram.com/aminespinoza10/
-[untappd]: https://untappd.com/user/aminespinoza
