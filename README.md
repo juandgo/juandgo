@@ -11,6 +11,20 @@
 :eyeglasses: **Hardcore Geek (is geek still used?)**  
 :oncoming_automobile: **SpaceX, technology, and simulator fan**  
 
+---
+
+### What I work with
+
+**Languages:** TypeScript · JavaScript · Python · SQL
+
+**Frontend:** Angular · React · Next.js · Tailwind CSS · Web Components · WebAssembly
+
+**Backend & infra:** Node.js · NestJS · FastAPI · Cloudflare Workers · Docker · PostgreSQL · Redis · GitHub Actions
+
+**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/juandgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
