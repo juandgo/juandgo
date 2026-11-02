@@ -16,9 +16,14 @@
 ### What I work with
 
 **Languages:** TypeScript · JavaScript · Python · SQL
-**Backend & infra:** Node.js · NestJS · FastAPI · Cloudflare Workers · Docker · PostgreSQL · Redis · GitHub Actions
-**Frontend:** Angular · React · Next.js · Tailwind CSS · Web Components · WebAssembly
-**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI
+
+**Backend & infra:** Node.js · NestJS · FastAPI · Docker · PostgreSQL · Redis · GitHub Actions
+
+**Frontend:** Angular · React  · Tailwind CSS
+
+**Prompt engineering
+
+//**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI
 
 ---
 
