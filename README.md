@@ -36,12 +36,11 @@
 <p align="left">
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-       alt="aws"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+       alt="AWS"
        width="40"
        height="40"/>
 </a>
-<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws-lambda" width="40" height="40"/> </a> -->
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="aws-lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
