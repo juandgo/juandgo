@@ -21,7 +21,7 @@
 
 **Frontend:** Angular · React  · Tailwind CSS
 
-**Prompt engineering
+**Prompt engineering**
 
 <!--**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI-->
 
