@@ -23,7 +23,7 @@
 
 **Prompt engineering
 
-//**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI
+<!--**AI & ML:** LangChain · LangGraph · RAG · Prompt engineering · TensorFlow.js · Voice AI-->
 
 ---
 
