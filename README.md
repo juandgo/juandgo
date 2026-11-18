@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
+<h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
-**I'm a fullstack software developer engineer with solid experience in designing, developing, and maintaining IT solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+**Hola soy NIcole
+
+**
 
 -----
 
@@ -69,6 +71,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  -->
+
 
 
 
